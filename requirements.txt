@@ -2,3 +2,5 @@ requests
 pytz
 talib
 numpy
+flask
+gunicorn
